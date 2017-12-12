@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-promises-benchmark",
+  "version": "0.0.1",
+  "description": "Simple benchmark for NodeJS promises.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weekens/nodejs-promises-benchmark.git"
+  },
+  "author": "Viktor Isaev (weekens@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weekens/nodejs-promises-benchmark/issues"
+  },
+  "homepage": "https://github.com/weekens/nodejs-promises-benchmark#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4",
+    "bluebird": "^3.5.1"
+  }
+}
